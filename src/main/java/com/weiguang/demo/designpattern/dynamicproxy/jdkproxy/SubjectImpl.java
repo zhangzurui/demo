@@ -1,4 +1,4 @@
-package com.weiguang.demo.designPattern.dynamicProcy.jdkProxy;
+package com.weiguang.demo.designpattern.dynamicproxy.jdkproxy;
 
 /**
  * @author zhangzurui

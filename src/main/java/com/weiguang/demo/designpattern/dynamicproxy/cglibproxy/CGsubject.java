@@ -1,4 +1,4 @@
-package com.weiguang.demo.designPattern.dynamicProcy.cglibProxy;
+package com.weiguang.demo.designpattern.dynamicproxy.cglibproxy;
 
 /**
  * @author zhangzurui

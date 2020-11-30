@@ -1,4 +1,4 @@
-package com.weiguang.demo.designPattern.dynamicProcy.jdkProxy;
+package com.weiguang.demo.designpattern.dynamicproxy.jdkproxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
