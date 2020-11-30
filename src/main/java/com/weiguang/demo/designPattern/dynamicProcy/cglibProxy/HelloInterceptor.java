@@ -3,7 +3,6 @@ package com.weiguang.demo.designPattern.dynamicProcy.cglibProxy;
 
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
-import org.aopalliance.intercept.MethodInvocation;
 
 import java.lang.reflect.Method;
 
