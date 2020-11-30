@@ -24,6 +24,14 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
+
+        <!-- cglib -->
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>2.2.2</version>
+        </dependency>
+
         <!-- 性能测试 TryCatchPerformanceTest start-->
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
